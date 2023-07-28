@@ -1,7 +1,7 @@
 
 # NPX CARD
 
-A way to connect with me using terminal build in node.
+A unique way to connect with me using terminal.
 
 
 👇 just hit 
